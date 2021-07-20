@@ -1,2 +1,2 @@
-# Jetbrains_Academy_learning
+# learn_Jetbrains_Academy
 none
